@@ -3,3 +3,5 @@ def calc(a,b):
     #print(sum)
     subtract = a - b
     #print(subtract)
+    divide = a/b
+    #print(divide)
