@@ -6,4 +6,3 @@ def calc(a,b):
     divide = a / b
     #print(divide)
     multiply = a * b
-    list = {sum, subtract, divide, multiply}
